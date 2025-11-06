@@ -1,0 +1,133 @@
+[
+  {
+    "slug": "jimmys-burger-bar",
+    "title": "Jimmy's Burger Bar",
+    "category": "Brand Identity",
+    "year": "2024–Present",
+    "role": "Lead Designer",
+    "cover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762082053/jimmys-burger-bar-about-compressed_v5pilo.webp",
+    "mobileCover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762430897/Untitled_design_42_lqwkn2.png",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Define a cohesive visual identity for a growing burger brand that stands out in a competitive market.",
+      "approach": "Custom typography, red–cream palette inspired by classic diners, playful motion graphics for social media.",
+      "outcome": "40% increase in brand recall and 65% boost in social engagement within first quarter."
+    },
+    "credits": ["Art Direction — Ameli van Zyl", "Photography — Client Team", "Motion Graphics — Ameli van Zyl"],
+    "services": ["Art Direction", "Photography", "Motion Graphics"],
+    "industry": "Food and Beverage"
+  },
+  {
+    "slug": "habitat-cosmic-oasis",
+    "title": "Habitat - Cosmic Oasis Festival Campaign",
+    "category": "Social Media & Merchandise",
+    "year": "2025",
+    "role": "Creative Director",
+    "cover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762082052/Habitat-Header-compressed_jmrygg.webp",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Conceptualised and designed the full festival theme, including posters, videos, and merchandise.",
+      "approach": "Cosmic-inspired visuals with bold typography and vibrant colors to create an immersive festival experience.",
+      "outcome": "Successfully launched festival campaign with engaging social media presence and merchandise line."
+    },
+    "credits": ["Creative Direction — Ameli van Zyl", "Design — Ameli van Zyl", "Motion Graphics — Ameli van Zyl"],
+    "services": ["Creative Direction", "Design", "Motion Graphics"],
+    "industry": "Festival"
+  },
+  {
+    "slug": "jj-glassworks",
+    "title": "JJ's Glassworks",
+    "category": "Brand Identity",
+    "year": "2024",
+    "role": "Brand Designer",
+    "cover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762370723/JJ_Banner_5x-8_ncaims.webp",
+    "mobileCover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762432544/Untitled_design_42_bvzrlj.png",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Modernised the existing brand while keeping it familiar for long-time customers.",
+      "approach": "Refined typography, elegant color palette, photography direction emphasizing craftsmanship.",
+      "outcome": "Successfully repositioned brand for premium market segment with 30% price increase acceptance."
+    },
+    "credits": ["Brand Strategy — Ameli van Zyl", "Photography Direction — Ameli van Zyl", "Design — Ameli van Zyl"],
+    "services": ["Brand Strategy", "Photography Direction", "Design"],
+    "industry": "Craftsmanship"
+  },
+  {
+    "slug": "extra-chew-good",
+    "title": "Extra — Chew Good",
+    "category": "Social",
+    "year": "2024",
+    "role": "Social Content Creator",
+    "cover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762370722/Chew_Good_Banner_5x-8_wpwn4l.webp",
+    "mobileCover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762432022/chew-good-mobile_raodry.png",
+    "gallery": ["/placeholder.svg?height=800&width=1200", "/placeholder.svg?height=800&width=1200"],
+    "overview": {
+      "problem": "Refresh social media presence with fresh, youthful energy.",
+      "approach": "Playful animations, bold colors, and relatable content for Gen Z audience.",
+      "outcome": "Campaign reached 5M+ impressions across platforms."
+    },
+    "credits": ["Creative Direction — Ameli van Zyl", "Animation — Ameli van Zyl"],
+    "services": ["Creative Direction", "Animation"],
+    "industry": "Food and Beverage"
+  },
+  {
+    "slug": "chicken-shop-date",
+    "title": "Chicken Shop Date",
+    "category": "Social",
+    "year": "2024",
+    "role": "Social Media Designer",
+    "cover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762370722/Chicken_Shop_Date_Banner_5x-8_cwei9n.webp",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Create engaging social media content that captures the playful spirit of the brand.",
+      "approach": "Bold graphics, vibrant colors, and dynamic motion design for Instagram and TikTok.",
+      "outcome": "Viral content with 2M+ views and 50% increase in follower engagement."
+    },
+    "credits": ["Design — Ameli van Zyl", "Motion Graphics — Ameli van Zyl"],
+    "services": ["Design", "Motion Graphics"],
+    "industry": "Food and Beverage"
+  },
+  {
+    "slug": "social-anxiety",
+    "title": "Social Anxiety",
+    "category": "Print",
+    "year": "2024",
+    "role": "Editorial Designer",
+    "cover": "https://res.cloudinary.com/dnlgohkcc/image/upload/v1762370759/Mental_Health_Banner_5x-8_nkomvy.webp",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Create a powerful visual narrative around mental health awareness.",
+      "approach": "Thoughtful typography, evocative imagery, and sensitive design approach.",
+      "outcome": "Featured in mental health awareness campaign, positive community response."
+    },
+    "credits": ["Design — Ameli van Zyl", "Art Direction — Ameli van Zyl"],
+    "services": ["Design", "Art Direction"],
+    "industry": "Mental Health"
+  }
+]
